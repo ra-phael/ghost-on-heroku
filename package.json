@@ -23,7 +23,7 @@
     "vapor": "github:sethlilly/Vapor#v1.6.0",
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
-    "liebling": "github:eddiesigner/liebling#v0.6.5"
+    "liebling": "github:eddiesigner/liebling"
   },
   "engines": {
     "node": "10.X"
