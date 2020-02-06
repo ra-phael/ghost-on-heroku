@@ -6,9 +6,8 @@ themes=(
 	bleak
 	the-shell
 	vapor
-  pico
-  lyra
-  liebling
+        pico
+        lyra
 )
 
 for theme in "${themes[@]}"
