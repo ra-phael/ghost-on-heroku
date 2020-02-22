@@ -11,7 +11,7 @@
   "env": {
     "APP_PUBLIC_URL": {
       "description": "The HTTPS URL of this app: either your custom domain or default 'herokuapp.com' hostname.",
-      "value": "https://blog.raphaelroullet.com"
+      "value": "http://blog.raphaelroullet.com"
     },
     "S3_ACCESS_KEY_ID": {
       "description": "(Optional) Set your AWS Access Key ID to enable S3 file storage. Defaults to Cloudinary storage",
